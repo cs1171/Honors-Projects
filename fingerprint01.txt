@@ -1,0 +1,63 @@
+student1
+1988
+59
+81
+                                    MMMMMM+                                     
+                         MMMMMMMMM+ $MMMMMMM                                    
+                    ,Z   MMZ+?8MMMMMD     ??                                    
+                  MMMMD       $MMMMMMMMMMMMMMMO,                                
+                IMMMI    MMMMMMMMMMMMD8NMMMMMMMMMMMM                            
+               ,MM~ ?MMMMMMM7                   +MMMMMM                         
+                 MMMMMMD    ~NMMMMMMMMMMMMMMMMM8    ~MMM$                       
+               MMMMM   ,MMMMMMMMMMD?~     ,?MMMMMMO                             
+             MMMMI   MMMMMMM~                  ~MMMM                            
+           MMMM~  MMMMM8     8MMMMMMMMMMMMMMMZ    MMM  MMMM                     
+         NMMM,  MMMM?   ,D  NMMMMD?     ~$MMMMMMM~ MMM  =MMMM                   
+         NMI  MMMM    MMMM        ?DMMMNZ~    DMMMMMMMM    MMM+                 
+            MMMM   $MMMM=   NMMMMMMMMMMMMMMMMM~   :OMMMM,   =MMM                
+           MMM:  8MMMM  ,MMMMMM8           ZMMMMM,    MMM8    MMM               
+         ,MMM   MMMM  ,MMMMM      MMMMMMMO,   NMMMM    MMMM    MMM              
+        7MMM  :MMM  =MMMM         MMMMMMMMMMMM~ ,MMMM   ~MMMI   MMM             
+        MMD  MMMM  MMMM   NMMMMMM          +MMMMM :MMM    NMMM   MMM            
+       MMD  MMM: NMMM   MMMMMDNMMMMMMMMMMMM:  =MMMM MMM     MMMN  MMM           
+      MMM  MMM  MMM?  MMMM  NMMMMMN$7ZDMMMMMMM? :MMM MMM,     MMM  MMM          
+     MMM  MMM  MMM  ?MMM  MMMMD             MMMMM~MM+ MMM =MMD MMM: M?          
+     MMM MMM  MMM  IMMM  MMMN    OMMMMMMN,    MMMMMMM  MMM MMM  MMM             
+    MMM MMM  MMMI 8MMN ,MMM   MMMMMMMMMMMMMMI   MMMMM   MMM MMD  MMM            
+    OMI MMI IMMZ 8MMO $MMM  IMMMZ         DMMM8   MMM   OMM ,MM   MMM           
+       MMM  MMM  MMZ $MM8  MMMN     ,~      OMMM   NMM=  MMM MMM   MMM          
+      +MM  MMM  MMN :MMN  MMM?  $MMMMMMMMM    MMM   ~MM  IMM  MM    MMM         
+      MM$ ZMM, MMM  MMM   MM$  MMMM    IMMMN   MMM   MM?  MMO MM7   $MM         
+     ~MM  MMM  MM  8MM   NMM  MMM        MMM,   MMD  MMI  MMM MMM    MMD        
+     MMM 7MM       MMM   MM, DMM   MMMMZ  MMM   MMM  +$   MMM MMM MM,,MM        
+     MMZ MMM  MZ  7MM   MMM  MMM  MMMMMM  ~MMM   MM7      MMM MMM MM8 MMM       
+    DMM ,MM= MMM  MMM   MM: ?MM  MMM OMM   MMM,  MMM  MMI DMM MMM MMN  MM       
+     M? MMM  MMM  MMM  ~MM  MMM  MM  MMM  :MMMM  MMM  MMM 8MM MMM MMM  MMM      
+        MMM  MMM  MMI  MMM  MMM  MM  MMM  NMMMM  MMM  MMM NMM MMM MMM  MMM      
+        MM7  MMM  MM:  MMM  MMM  MMMMMM,  MMMMM  MMM  MMZ MMM MMM MMM  ~MM:     
+        MM   NMM NMM   MMM  MM8   MMMM,  MMMMMM  MMM ~MM  MMM MMM +MM,  MMM     
+        MM    MMMMMD  OMMI  MMI         MMM,MM8  MM$ MMM  MMM MMZ  MMM   :      
+       +MM     MMM   MMMM,  MM=  IMMMMMMMM  MM  8MM  MMM +MM, MM    MMM         
+       7MM    MMM  OMMMMM  +MM ,MMMMMMM8   MMM  MMM  MM  MMM ~MM    ~MM         
+       7MM   OMM, MMMDMMI  MMM NMM        MMM  OMM  MMM DMM  MMM MM~ MMM        
+       =MM   MMM MMM,MMM   MMN     NMMM: OMM   MMM  MM~ MMM  MM= MMM  MM        
+            ZMM OMM :MM$  MMM   =MMMMMM  :M$  MMM  =MM MMM  =MM  MMM  MMD       
+            MMM MM~ MMM   MM?  7MMM     DZ   DMM=  8MMMMM   MMN  MMM  $MM       
+            MMI MM MMM   MMM  ,MMM     MMM  $MMO   7MMMM   ,MM   MMM  =MM       
+           ?MM    OMMI  MMM   MMM    NMMM   MMM     MMMZ   MMM   MMO  $MM       
+           IMM   7MMD  MMM   MMM    MMM7   MMMMM     MM   :MMI  $MM   MM8       
+           :MM,  MMM  MMMI  MMM:   MMM?   MMMNMM     MM   MMM   MMM   MM        
+               :MMM  MMM=  ZMM$   MMM    MMM +MM    ZMM  +MM+  MMM,             
+              MMMI  MMM   ?MMN   MMM   :MMM  DMM    MM=  MMM  MMM=              
+              :M  ~MMM    MMM   MMM   $MMM   MMM   MMM  MMM MMMM   7MM          
+                 MMMM    MMM   MMM   MMMD   DMM   NMM  IMMMMMM    8MMN          
+                 MM=   7MM8   MMM   MMM?    MMN  7MMO  MMMMM:    MMMO           
+                      NMMM   MMM   MMMZ    MMM   MMM  MMMMM     MMM8            
+                    ~MMMI   MMM   +MM+    DMM   MMM  NMMMM    :MMM,             
+                     MO    NMM~  +MM:    NMM   MMM   MMM~    DMMM               
+                          =MMO  ,MM~    MMMI  MMM   MMM    ZMMM                 
+                          MMM   MMM    MMM:  MMM   MMM   NMMMN                  
+                               MMM    MMM   MMM   MMM  MMMM8                    
+                               MMZ   MMM   MMM   DMM$  MMD                      
+                                   $MMM   MMM   8MMO                            
+                                    Z,   MMM    MMO                             
